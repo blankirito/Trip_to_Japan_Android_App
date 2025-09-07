@@ -1,8 +1,13 @@
 # Trip In Tokyo and Mount Fuji
 
-A travel photo gallery app built in Android Studio that captures moments from my trips to Tokyo and Mount Fuji with friends.  
-This project is adapted from the "Building Beautiful Apps" project from the third unit of the Android Studio course.  
-The goal is to practice practical Android app development and UI optimization.
+A travel photo gallery app built in Android Studio to showcase trip memories in a clean, swipeable interface.  
+Developed as part of my practice in Android development, focusing on UI optimization and component integration. 
+
+## Learning Outcomes
+- Gained hands-on experience with Android Studio and Kotlin
+- Practiced RecyclerView, ViewPager, and ConstraintLayout usage
+- Improved understanding of UI/UX design in mobile apps
+- Learned how to manage and display local image storage efficiently
 
 ## Features
 - Display photos sorted by date
@@ -18,5 +23,5 @@ The goal is to practice practical Android app development and UI optimization.
 
 ## Installation 
 1. Download Android Studio
-2. Download ZIP file
+2. Clone or download the project from GitHub
 3. Open and run in Android Studio
